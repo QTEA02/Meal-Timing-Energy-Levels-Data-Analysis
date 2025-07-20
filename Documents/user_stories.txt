@@ -1,0 +1,29 @@
+Here are some user-story style requirements for your dashboard:
+
+```markdown
+- As a user, I want to see at what time of day after eating I have the **most energy**,  
+  so that I can schedule my most important tasks when I’m at my peak.
+
+- As a user, I want to see at what time of day after eating I have the **least energy**,  
+  so that I can avoid critical work during those dips.
+
+- As a user, I want to know whether **skipping a meal** affects my energy levels,  
+  so that I can understand the cost of missed meals.
+
+- As a user, I want to **filter** my energy data by **weekday vs. weekend**,  
+  so that I can compare how my routine differs on workdays and days off.
+
+- As a user, I want to **select specific hours** (e.g., morning, afternoon, evening) via a time-of-day slider,  
+  so that I can zoom in on particular eating windows.
+
+- As a user, I want to break my data out by **meal type** (breakfast, lunch, dinner, snack),  
+  so that I can see which meals fuel me best.
+
+- As a user, I want to view a **trend line** of my average post-meal energy over time,  
+  so that I can spot gradual improvements or declines.
+
+- As a user, I want to see a **distribution histogram** of when I actually ate,  
+  so that I can identify which mealtimes I’m most consistent about.
+
+- As a user, I want an at-a-glance **KPI banner** showing my overall average energy and total skipped meals,  
+  so that I have a quick summary of my habits.
