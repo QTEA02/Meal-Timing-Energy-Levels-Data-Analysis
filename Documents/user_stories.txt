@@ -10,9 +10,6 @@ Here are some user-story style requirements for your dashboard:
 - As a user, I want to know whether **skipping a meal** affects my energy levels,  
   so that I can understand the cost of missed meals.
 
-- As a user, I want to **filter** my energy data by **weekday vs. weekend**,  
-  so that I can compare how my routine differs on workdays and days off.
-
 - As a user, I want to **select specific hours** (e.g., morning, afternoon, evening) via a time-of-day slider,  
   so that I can zoom in on particular eating windows.
 
